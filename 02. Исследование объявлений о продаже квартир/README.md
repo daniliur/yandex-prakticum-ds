@@ -13,5 +13,4 @@
 * `pandas`
 * `matplotlib`
 * `seaborn`
-* `plotly`
 * `EDA`
